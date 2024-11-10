@@ -40,8 +40,3 @@ Feel free to fork this project and submit pull requests with improvements. Let's
 
 ```bash
 Replace `https://github.com/your-username/your-repo-name.git` with the actual URL of your repository. 
-
-
-
-
-
